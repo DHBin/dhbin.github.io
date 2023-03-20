@@ -17,7 +17,5 @@ projects:
     desc: 简化mapstruct使用
     link: https://github.com/DHBin/mapstruct-helper
 
-
-footer: '<a href="https://beian.miit.gov.cn/" rel="noopener noreferrer" target="_blank">粤ICP备2021046732号</a>'
 ---
 

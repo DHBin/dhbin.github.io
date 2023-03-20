@@ -31,7 +31,7 @@ export default hopeTheme({
       // sidebar
       sidebar: techSidebar,
 
-      footer: "默认页脚",
+      footer: '<a href="https://beian.miit.gov.cn/" rel="noopener noreferrer" target="_blank">粤ICP备2021046732号</a>',
 
       displayFooter: true,
 
