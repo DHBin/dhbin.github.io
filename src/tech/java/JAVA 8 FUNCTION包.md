@@ -8,13 +8,13 @@ date: 2018-08-23 14:40:00
 
 | 接口                | 解释                                       |
 | :------------------ | :----------------------------------------- |
-| Consumer<T>         | 接收T对象，无返回值                        |
-| Function<T, R>      | 接收T对象，返回R对象                       |
-| Predicate<T>        | 接收T对象，返回boolean值                   |
-| Supplier<T>         | 提供T对象（例如工厂），不接收值            |
-| BiFunction<T, U, R> | 接收T对象和U对象，返回R对象                |
-| UnaryOperator<T>    | 接收T对象，返回T对象                       |
-| BinaryOperator<T>   | 接收两个T对象，返回T对象，继承于BiFunction |
+| Consumer< T >         | 接收T对象，无返回值                        |
+| Function< T, R >      | 接收T对象，返回R对象                       |
+| Predicate< T>        | 接收T对象，返回boolean值                   |
+| Supplier< T >         | 提供T对象（例如工厂），不接收值            |
+| BiFunction< T, U, R > | 接收T对象和U对象，返回R对象                |
+| UnaryOperator< T >    | 接收T对象，返回T对象                       |
+| BinaryOperator< T >   | 接收两个T对象，返回T对象，继承于BiFunction |
 
 标注为FunctionalInterface的接口被称为函数式接口，该接口只能有一个自定义方法，但是可以包括从object类继承而来的方法。如果一个接口只有一个方法，则编译器会认为这就是一个函数式接口。是否是一个函数式接口，需要注意的有以下几点：
 
