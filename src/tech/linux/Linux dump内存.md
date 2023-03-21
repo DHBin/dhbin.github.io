@@ -67,7 +67,4 @@ all:
 clean:
         rm ./dump
 ```
-![3307e4e7014df2c007273002ecd7bc5.jpg][1]
-
-
-  [1]: https://dhbin.cn/usr/uploads/2022/10/34868770.jpg
+![linux_dump_mem](https://cdn.dhbin.cn/linux_dump_mem.jpg)
