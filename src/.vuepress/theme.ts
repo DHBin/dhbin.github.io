@@ -20,6 +20,8 @@ export default hopeTheme({
 
   blog: {},
 
+  sidebarSorter: ["readme", "order", "date-desc", "title", "filename"],
+
   locales: {
     /**
      * Chinese locale config
