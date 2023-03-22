@@ -1,5 +1,9 @@
 ---
 date: 2018-09-20 14:59:00
+category:
+  - Java
+tag:
+  - Maven
 ---
 
 # Maven更新父子模块的版本号

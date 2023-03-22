@@ -1,5 +1,10 @@
 ---
 date: 2018-09-13 17:31:00
+category:
+  - Java
+tag:
+  - Lombok
+  - 编译
 ---
 
 # Lombok原理分析与功能实现

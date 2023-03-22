@@ -1,5 +1,10 @@
 ---
 date: 2019-07-07 23:15:00
+category:
+  - Java
+tag:
+  - 原理
+  - 锁
 ---
 
 # Java Synchronised机制

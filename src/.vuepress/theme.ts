@@ -20,7 +20,15 @@ export default hopeTheme({
 
   blog: {},
 
-  sidebarSorter: ["readme", "order", "date-desc", "title", "filename"],
+  sidebarSorter: (infoA, infoB) => {
+    // 先按类型排序
+    let sortByType = infoA.type.localeCompare(infoB.type)
+    if (sortByType != 0) {
+      return sortByType
+    }
+    // 按标题排序
+    return infoA.title.localeCompare(infoB.title)
+  },
 
   locales: {
     /**
@@ -46,6 +54,7 @@ export default hopeTheme({
       metaLocales: {
         editLink: "在 GitHub 上编辑此页",
       },
+      editLink: false
     },
   },
 

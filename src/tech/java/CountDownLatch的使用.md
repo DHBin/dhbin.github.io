@@ -1,5 +1,11 @@
 ---
 date: 2019-07-11 23:44:00
+category:
+  - Java
+tag:
+  - 线程
+  - 锁
+
 ---
 
 # CountDownLatch的使用

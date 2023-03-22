@@ -22,8 +22,8 @@ export const techSidebar = sidebar({
       children: "structure"
     },
     {
-      text: "其他",
-      prefix: "其他",
+      text: "其它",
+      prefix: "其它",
       collapsible: true,
       children: "structure"
     }

@@ -1,5 +1,9 @@
 ---
 date: 2019-07-03 17:34:00
+category:
+  - Java
+tag:
+ - Spring
 ---
 
 # scheduleAtFixedRate与scheduleWithFixedDealy

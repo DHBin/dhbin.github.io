@@ -1,5 +1,9 @@
 ---
 date: 2018-08-03 22:25:00
+category:
+  - Java
+tag:
+ - Spring
 ---
 
 # Spring boot中怎么发送各种格式的邮件

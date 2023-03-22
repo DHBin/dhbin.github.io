@@ -1,5 +1,9 @@
 ---
 date: 2019-07-10 23:47:00
+category:
+  - Java
+tag:
+  - 锁
 ---
 
 # 对synchroized的一些认识

@@ -1,5 +1,9 @@
 ---
 date: 2019-07-11 00:42:00
+category:
+  - Java
+tag:
+  - 线程
 ---
 
 # Thread的wait和notify

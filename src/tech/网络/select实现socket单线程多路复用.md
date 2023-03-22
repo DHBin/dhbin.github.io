@@ -1,5 +1,11 @@
 ---
 date: 2019-05-01 20:23:00
+category:
+  - 网络
+tag:
+ - Linux
+ - Socket
+ - IO
 ---
 
 # Linux select实现socket单线程多路复用

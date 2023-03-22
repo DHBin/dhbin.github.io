@@ -1,5 +1,11 @@
 ---
 date: 2019-04-30 16:44:00
+category:
+  - 网络
+tag:
+ - Linux
+ - Socket
+ - IO
 ---
 
 # Linux socket笔记

@@ -1,5 +1,9 @@
 ---
 date: 2021-01-15 15:28:00
+category:
+  - Java
+tag:
+  - 源码
 ---
 
 # 简单几步！Windows下Clion结合docker调试openjdk8源码

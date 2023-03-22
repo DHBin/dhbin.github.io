@@ -1,5 +1,9 @@
 ---
 date: 2019-07-08 23:18:00
+category:
+  - Java
+tag:
+  - 线程
 ---
 
 # 如何优雅地停止Thread

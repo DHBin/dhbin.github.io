@@ -1,5 +1,9 @@
 ---
 date: 2019-07-12 17:45:00
+category:
+  - Java
+tag:
+  - IO
 ---
 
 # FileInputStream在使用完以后，不关闭流，想二次使用可以怎么操作？

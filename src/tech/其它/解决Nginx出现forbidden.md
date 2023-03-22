@@ -1,5 +1,7 @@
 ---
 date: 2018-09-20 10:25:00
+tag:
+ - Nginx
 ---
 
 # 解决Nginx出现forbidden (13: Permission denied)

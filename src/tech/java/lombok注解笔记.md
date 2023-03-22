@@ -1,5 +1,9 @@
 ---
 date: 2018-08-22 11:05:00
+category:
+  - Java
+tag:
+  - Lombok
 ---
 
 # lombok注解笔记

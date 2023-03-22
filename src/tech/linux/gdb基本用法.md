@@ -1,5 +1,9 @@
 ---
 date: 2020-12-24 14:55:00
+category:
+  - Linux
+tag:
+ - Linux
 ---
 
 # gdb基本用法

@@ -1,5 +1,10 @@
 ---
 date: 2019-01-09 13:31:00
+category:
+  - Java
+tag:
+ - Spring
+ - 源码
 ---
 
 # Spring Boot源码编译

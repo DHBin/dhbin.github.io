@@ -1,5 +1,7 @@
 ---
 date: 2018-08-23 14:40:00
+category:
+  - Java
 ---
 
 # JAVA 8 FUNCTION包

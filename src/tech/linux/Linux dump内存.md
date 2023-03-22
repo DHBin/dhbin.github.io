@@ -1,5 +1,9 @@
 ---
 date: 2022-10-25 14:31:00
+category:
+  - Linux
+tag:
+ - Linux
 ---
 
 # Linux dump内存

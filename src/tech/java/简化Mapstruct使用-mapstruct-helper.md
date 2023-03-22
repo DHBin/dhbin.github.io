@@ -1,5 +1,9 @@
 ---
 date: 2021-12-15 17:28:00
+category:
+  - Java
+tag:
+  - Mapstruct
 ---
 
 # 简化Mapstruct使用-mapstruct-helper
