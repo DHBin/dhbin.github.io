@@ -10,6 +10,12 @@ export const techSidebar = sidebar({
       children: "structure"
     },
     {
+      text: "Redis",
+      prefix: "redis",
+      collapsible: true,
+      children: "structure"
+    },
+    {
       text: "Linux",
       prefix: "linux",
       collapsible: true,
