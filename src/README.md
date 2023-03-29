@@ -6,6 +6,7 @@ title: 主页
 heroImage: /logo.png
 heroText: DHB
 heroFullScreen: true
+bgImage: /assets/bg.jpg
 tagline: 分享技术丨记录生活
 projects:
   - icon: project
