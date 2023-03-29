@@ -2,6 +2,8 @@
 date: 2019-07-04 15:15:00
 category:
   - Mysql
+tag:
+  - Mysql
 ---
 
 # Mysql避免全表update

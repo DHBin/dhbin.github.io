@@ -2,6 +2,8 @@
 date: 2019-08-24 10:28:00
 category:
   - Mysql
+tag:
+  - Mysql
 ---
 
 
