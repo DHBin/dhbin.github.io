@@ -1,1 +1,0 @@
-import{_ as e,W as t,X as o,Y as n}from"./framework-5f3abea5.js";const _={},c=n("p",null,"努力，遇到更好的自己！",-1),s=[c];function r(a,l){return t(),o("div",null,s)}const d=e(_,[["render",r],["__file","intro.html.vue"]]);export{d as default};
