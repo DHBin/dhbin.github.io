@@ -13,8 +13,9 @@ category:
 ## 前期准备
 
 - 一个备案的域名
-- github账号：通过github page做托管
-- cdn加速：使用七牛云
+- github page：做静态页面托管
+- github Discussions：评论
+- cdn加速|存储：使用七牛云
 - algolia：全文搜索
 - picGo：图床上传工具
 - typora：md编辑器，结合picGo一起使用，体验非常不错
