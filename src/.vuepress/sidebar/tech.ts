@@ -22,6 +22,12 @@ export const techSidebar = sidebar({
       children: "structure"
     },
     {
+      text: "Clickhouse",
+      prefix: "clickhouse",
+      collapsible: true,
+      children: "structure"
+    },
+    {
       text: "网络",
       prefix: "网络",
       collapsible: true,
