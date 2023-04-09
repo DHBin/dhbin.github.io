@@ -1,0 +1,1 @@
+import{_ as t,X as o,Y as n,a0 as a,C as c}from"./framework-dc96d9cf.js";const s={};function _(r,l){const e=c("AutoCatalog");return o(),n("div",null,[a(e,{base:"/tech/"})])}const d=t(s,[["render",_],["__file","index.html.vue"]]);export{d as default};
