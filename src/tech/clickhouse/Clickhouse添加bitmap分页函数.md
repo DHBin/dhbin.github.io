@@ -42,7 +42,7 @@ create table if not exists label_string_local on cluster clickhouse_cluster
 
 1. 实现分页
 
-在Clickhouse中bitmap指向的class是`RoaringBitmapWithSmallSet `，bitmap底层使用的是RoaringBitmap，github地址：https://github.com/RoaringBitmap/CRoaring.git，`RoaringBitmapWithSmallSet`对rb进行了包装，在这个类下添加分页函数
+在Clickhouse中bitmap指向的class是`RoaringBitmapWithSmallSet `，bitmap底层使用的是RoaringBitmap，github地址：https://github.com/RoaringBitmap/CRoaring.git ，`RoaringBitmapWithSmallSet`对rb进行了包装，在这个类下添加分页函数
 
 ```c++
    UInt64 rb_offset_limit(UInt64 offset, UInt64 limit, RoaringBitmapWithSmallSet & r1) const
