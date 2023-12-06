@@ -8,7 +8,7 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "DHB",
+      title: "HB技术栈",
       description: "博客",
     },
   },
