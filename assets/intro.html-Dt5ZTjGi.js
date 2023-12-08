@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as o,a as c}from"./app-Z5wCtR9B.js";const n={},r=c("p",null,"努力，遇到更好的自己！",-1),_=[r];function s(a,l){return t(),o("div",null,_)}const m=e(n,[["render",s],["__file","intro.html.vue"]]);export{m as default};
