@@ -1,5 +1,5 @@
+import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from "vuepress";
-import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -14,13 +14,10 @@ export default defineUserConfig({
   },
 
   theme,
-  plugins: [
-    docsearchPlugin({
-      appId: 'OZEIJ2LCLA',
-      apiKey: 'f9a056d506baba509dc762fd42407c3a',
-      indexName: 'dhbin',
-    })
-  ]
+  bundler: viteBundler({
+    viteOptions: {},
+    vuePluginOptions: {},
+  }),
   // Enable it with pwa
   // shouldPrefetch: false,
 });
