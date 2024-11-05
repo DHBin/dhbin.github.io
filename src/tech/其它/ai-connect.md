@@ -7,7 +7,7 @@ tag:
   - Chatgpt
 ---
 
-# ai-connect chatgpt镜像
+# 一个开源的chatgpt镜像|ai-connect  
 
 
 新开发的一个小玩意，目前支持chatgpt镜像
@@ -20,8 +20,11 @@ tag:
 - [ ] chatgpt
   - [x] 镜像基本功能
   - [ ] 会话隔离
+  - [ ] 转发代理
 - [ ] 管理面板
+  - [ ] 基础用户管理
   - [ ] chatgpt token管理
+  
 - [ ] Claude
   - [ ] 镜像基本功能
 
@@ -67,8 +70,6 @@ ai-connect chatgpt --mirror
 
 
 例子：[https://oai.253282.xyz/?token=9090](https://oai.253282.xyz/?token=9090)
-
-
 
 
 
