@@ -9,6 +9,10 @@ heroFullScreen: true
 bgImage: /assets/bg.jpg
 tagline: 分享技术丨记录生活
 projects:
+  - icon: /assets/linuxdo.png
+    name: LINUX DO
+    desc: 新的理想型社区
+    link: https://linux.do/?source=dhbin.cn
   - icon: project
     name: ra
     desc: 数据库工具，mysql数据恢复，binlog转sql
