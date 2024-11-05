@@ -12,7 +12,7 @@ projects:
   - icon: /assets/linuxdo.png
     name: LINUX DO
     desc: 新的理想型社区
-    link: https://linux.do/?source=dhbin.cn
+    link: https://linux.do/?source=dhbin_cn
   - icon: project
     name: ra
     desc: 数据库工具，mysql数据恢复，binlog转sql
