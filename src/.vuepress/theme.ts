@@ -41,7 +41,7 @@ export default hopeTheme({
       // sidebar
       sidebar: techSidebar,
 
-      footer: '<a href="https://beian.miit.gov.cn/" rel="noopener noreferrer" target="_blank">粤ICP备2021046732号</a>',
+      footer: '<a href="https://beian.miit.gov.cn/" rel="noopener noreferrer" target="_blank">粤ICP备2021046732号</a> | <a href="https://linux.do/?source=dhbin_cn" rel="noopener noreferrer" target="_blank">LinuxDo 新的理想型社区</a>',
 
       displayFooter: true,
 
