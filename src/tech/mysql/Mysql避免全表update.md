@@ -12,13 +12,13 @@ tag:
 
 下面这条语句可以开启检查，当没有加where时拦截下来
 
-```mysql
+```sql
 set sql_safe_updates=1;
 ```
 
 关闭：
 
-```mysql
+```sql
 set sql_safe_updates=0;
 ```
 

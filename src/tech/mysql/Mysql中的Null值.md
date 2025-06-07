@@ -12,13 +12,13 @@ tag:
 
 在大对数编程语言中，逻辑表达式的值只有两种：True，False。但是在关系型数据库中的逻辑表达式并非两种，而是三值逻辑的表达式(True、False、Unknown)。
 
-```mysql
+```sql
 select null = 1;
 ```
 
 执行结果：
 
-```mysql
+```sql
 +----------+
 | null = 1 |
 +----------+
@@ -27,13 +27,13 @@ select null = 1;
 1 row in set (0.01 sec)
 ```
 
-```mysql
+```sql
 select null = null;
 ```
 
 执行结果：
 
-```mysql
+```sql
 +-------------+
 | null = null |
 +-------------+

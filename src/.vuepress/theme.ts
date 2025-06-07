@@ -10,8 +10,6 @@ export default hopeTheme({
     url: "https://dhbin.cn",
   },
 
-  iconAssets: "iconify",
-
   logo: "/logo.png",
 
   repo: "dhbin/dhbin.cn",
@@ -66,6 +64,10 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+
+    icon: {
+      assets: "iconify",
+    },
 
     comment: {
       provider: "Giscus",
