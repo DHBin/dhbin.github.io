@@ -1,9 +1,17 @@
-import { viteBundler } from '@vuepress/bundler-vite'
+import { viteBundler } from "@vuepress/bundler-vite";
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
+  head: [
+    [
+      "script",
+      {
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9257985378957520",
+      },
+    ],
+  ],
 
   locales: {
     "/": {
