@@ -37,7 +37,7 @@ jobs:
       - name: Build VuePress site
         run: |
           pnpm docs:build
-          echo 'blog.dhbin.cn' > src/.vuepress/dist/CNAME
+          echo 'dhbin.cn' > src/.vuepress/dist/CNAME
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
