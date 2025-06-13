@@ -13,6 +13,14 @@ export default defineUserConfig({
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9257985378957520",
       },
     ],
+    [
+      "script",
+      {
+        defer: true,
+        src: "https://cloud.umami.is/script.js",
+        "data-website-id": "0a24683a-9992-4763-934c-014d05f0d350",
+      },
+    ],
   ],
 
   locales: {
