@@ -38,6 +38,12 @@ export const techSidebar = sidebar({
       prefix: "其它",
       collapsible: true,
       children: "structure"
+    },
+    {
+      text: "AI",
+      prefix: "ai",
+      collapsible: true,
+      children: "structure"
     }
   ],
   "/": [],
