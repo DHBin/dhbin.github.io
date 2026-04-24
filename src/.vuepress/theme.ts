@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://dhbin.cn",
   },
 
-  logo: "/logo.png",
+  logo: "/logo.avif",
 
   repo: "dhbin/dhbin.cn",
 

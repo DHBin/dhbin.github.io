@@ -3,10 +3,10 @@ home: true
 layout: Blog
 icon: home
 title: 主页
-heroImage: /logo.png
+heroImage: /logo.avif
 heroText: DHB
 heroFullScreen: true
-bgImage: /assets/bg.jpg
+bgImage: /assets/bg.avif
 tagline: 分享技术丨记录生活
 projects:
   - icon: project
@@ -21,5 +21,4 @@ projects:
     name: mapstruct-helper
     desc: 简化mapstruct使用
     link: https://github.com/DHBin/mapstruct-helper
-
 ---
